@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cnmb/SoccerBall2.png</file>
+        <file>1/fight.wav</file>
+        <file>1/horror_lose_.wav</file>
+        <file>1/song18.wav</file>
+        <file>1/coach_whistle.wav</file>
+        <file>1/crowd_applause.wav</file>
+        <file>1/face_the_facts.wav</file>
+    </qresource>
+</RCC>
